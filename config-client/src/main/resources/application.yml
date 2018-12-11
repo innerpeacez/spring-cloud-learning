@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: config-client
+  cloud:
+    config:
+      uri: localhost:8888
+server:
+  port: 9999
