@@ -1,10 +1,5 @@
 spring:
   application:
     name: config-client
-  cloud:
-    config:
-      uri: localhost:8888
-      retry:
-        initial-interval: 5
 server:
-  port: 9999
+  port: 10001
