@@ -8,19 +8,26 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.zhw.ms</groupId>
-    <artifactId>gateway</artifactId>
+    <artifactId>service-comsumer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>gateway</name>
-    <description>gateway</description>
+    <name>service-comsumer</name>
+    <description>service-comsumer</description>
 
     <dependencies>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-gateway</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-openfeign</artifactId>
+        </dependency>
     </dependencies>
+
 </project>

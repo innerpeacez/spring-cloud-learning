@@ -1,0 +1,17 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: baidu_route
+          uri: http://baidu.com:80/
+          predicates:
+            - Path=/baidu
+      discovery:
+        locator:
+          lower-case-service-id: true
+          enabled: true
+
+
+logging:
+  level:
+    org.springframework.cloud.gateway: debug
