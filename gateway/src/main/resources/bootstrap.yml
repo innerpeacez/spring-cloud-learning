@@ -5,9 +5,6 @@ spring:
         locator:
           lower-case-service-id: true # 使用小写服务名路由规则，不配置时，必须使用大写
           enabled: true # 开启通过注册中心服务名路由
-      routes:
-        - id:
-            uri:
 
 
 
