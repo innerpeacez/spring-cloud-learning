@@ -1,17 +1,13 @@
 spring:
   cloud:
     gateway:
-      routes:
-        - id: baidu_route
-          uri: http://baidu.com:80/
-          predicates:
-            - Path=/baidu
       discovery:
         locator:
-          lower-case-service-id: true
-          enabled: true
+          lower-case-service-id: true # 使用小写服务名路由规则，不配置时，必须使用大写
+          enabled: true # 开启通过注册中心服务名路由
+      routes:
+        - id:
+            uri:
 
 
-logging:
-  level:
-    org.springframework.cloud.gateway: debug
+

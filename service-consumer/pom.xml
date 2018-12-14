@@ -8,10 +8,10 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.zhw.ms</groupId>
-    <artifactId>service-comsumer</artifactId>
+    <artifactId>service-consumer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>service-comsumer</name>
-    <description>service-comsumer</description>
+    <name>service-consumer</name>
+    <description>service-consumer</description>
 
     <dependencies>
         <dependency>

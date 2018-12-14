@@ -20,6 +20,9 @@
         <module>config-server</module>
         <module>config-client</module>
         <module>consul-discovery</module>
+        <module>gateway</module>
+        <module>service-provider</module>
+        <module>service-consumer</module>
     </modules>
 
     <properties>

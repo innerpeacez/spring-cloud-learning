@@ -12,10 +12,5 @@ public class GatewayApplication {
     public static void main(String[] args) {
         SpringApplication.run(GatewayApplication.class, args);
     }
-
-    @Bean
-    public RouteLocator customRouteLocator(RouteLocatorBuilder builder) {
-        return builder.routes().route(r -> r.path("/jd").uri("http://jd.com:80/").id("jd_route")).build();
-    }
 }
 
