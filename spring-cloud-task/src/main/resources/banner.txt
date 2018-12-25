@@ -1,0 +1,82 @@
+${AnsiColor.RED}                 i
+                GDD
+               GDDDD
+              ,DDDDDD
+               EDDDD             ${AnsiColor.WHITE}         L  i                E             .jDK     t        :K    ;E
+${AnsiColor.RED}            DD  EDD. ED          ${AnsiColor.WHITE}        ,E  K  .K            EEEEEK       EEEi  iE  E        :K  ..iD..
+${AnsiColor.RED}           DDDD  D. EDDD         ${AnsiColor.WHITE}       ,E:  K EE.            E              E    EG E        :K  EEEEEE,
+${AnsiColor.RED}          DDDDDD   EDDDDD        ${AnsiColor.WHITE}      tEK   EEj         ;EEEEEEEEED       DDEDD;  K E       KEEK   ;D
+${AnsiColor.RED}          DDDDDD   GDDDDD        ${AnsiColor.WHITE}      E K fEE           ,E......:jD       tiEit.E   E        :K    ;D
+${AnsiColor.BLUE}        L ${AnsiColor.RED} DDDD ${AnsiColor.BLUE} E,${AnsiColor.RED} GDDD ${AnsiColor.BLUE} D      ${AnsiColor.WHITE}        K G Kjjjjj      ;EEEEEEEEED       ftEiL ;E  E        :K  EEEEEE:
+${AnsiColor.BLUE}       DDD ${AnsiColor.RED} DD ${AnsiColor.BLUE} DDD,${AnsiColor.RED} GE ${AnsiColor.BLUE} EDD     ${AnsiColor.WHITE}        K   DGGGGD      ,E       jD       LiE;G  DD E        :EE     .E
+${AnsiColor.BLUE}      DDDDD    DDDDD,   EDDDD    ${AnsiColor.WHITE}        f  G;           ;EEEEEEEEED       G,E,E     E,      tEEt fE. E.
+${AnsiColor.BLUE}     ,DDDDDE  ,DDDDDD  ,DDDDDD   ${AnsiColor.WHITE}      KEEEEEEEEEEG         E            E.E E.GEEEEK      K,K   fEE,
+${AnsiColor.BLUE}      DDDDD    jDDDE    GDDDD    ${AnsiColor.WHITE}      ;,,,,Ej:::..     :EEEEEEEEEEEG      E E E t:  E        .E   .EE;
+${AnsiColor.BLUE}       DDD  DD, jDE  DD, GDD     ${AnsiColor.WHITE}           Di                E            E E E     E        .E  :E,,Et
+${AnsiColor.BLUE}        f  DDDD, :  DDDD, i      ${AnsiColor.WHITE}           Dt                E              E       E       DDE tE.  .Ef
+${AnsiColor.BLUE}          EDDDDD   EDDDDD        ${AnsiColor.WHITE}           :.                ,              ,       ,       ,,,.,      :.
+${AnsiColor.BLUE}          jDDDDE   jDDDDE
+${AnsiColor.BLUE}           jDDE ${AnsiColor.RED} E, ${AnsiColor.BLUE}jDDD         ${AnsiColor.WHITE}                                                     ,--.
+${AnsiColor.BLUE}            jE ${AnsiColor.RED} DDD,${AnsiColor.BLUE} jE          ${AnsiColor.WHITE}                      ,--.   ,--. ,---. ,--.   ,--.  `--' ,---.,--. ,--.
+${AnsiColor.RED}               DDDDD,            ${AnsiColor.WHITE}                      |  |.'.|  || .-. ||  |.'.|  |  ,--.| .-. |\  '  /
+${AnsiColor.RED}              :DDDDDD            ${AnsiColor.WHITE}                      |   .'.   |' '-' '|   .'.   |  |  |' '-' ' \   '
+${AnsiColor.RED}               jDDDD             ${AnsiColor.WHITE}                      '--'   '--' `---' '--'   '--'.-'  / `---'.-'  /
+${AnsiColor.RED}                jDD              ${AnsiColor.WHITE}                                                   '---'       `---'
+${AnsiColor.RED}                 .                                      ${AnsiColor.BLUE}Spring Boot Version: ${spring-boot.version}${spring-boot.formatted-version}
+
+
+
+
+
+WWWWWWWW                           WWWWWWWW     OOOOOOOOO     WWWWWWWW                           WWWWWWWW          JJJJJJJJJJJ     OOOOOOOOO     YYYYYYY       YYYYYYY
+W::::::W                           W::::::W   OO:::::::::OO   W::::::W                           W::::::W          J:::::::::J   OO:::::::::OO   Y:::::Y       Y:::::Y
+W::::::W                           W::::::W OO:::::::::::::OO W::::::W                           W::::::W          J:::::::::J OO:::::::::::::OO Y:::::Y       Y:::::Y
+W::::::W                           W::::::WO:::::::OOO:::::::OW::::::W                           W::::::W          JJ:::::::JJO:::::::OOO:::::::OY::::::Y     Y::::::Y
+ W:::::W           WWWWW           W:::::W O::::::O   O::::::O W:::::W           WWWWW           W:::::W             J:::::J  O::::::O   O::::::OYYY:::::Y   Y:::::YYY
+  W:::::W         W:::::W         W:::::W  O:::::O     O:::::O  W:::::W         W:::::W         W:::::W              J:::::J  O:::::O     O:::::O   Y:::::Y Y:::::Y
+   W:::::W       W:::::::W       W:::::W   O:::::O     O:::::O   W:::::W       W:::::::W       W:::::W               J:::::J  O:::::O     O:::::O    Y:::::Y:::::Y
+    W:::::W     W:::::::::W     W:::::W    O:::::O     O:::::O    W:::::W     W:::::::::W     W:::::W                J:::::j  O:::::O     O:::::O     Y:::::::::Y
+     W:::::W   W:::::W:::::W   W:::::W     O:::::O     O:::::O     W:::::W   W:::::W:::::W   W:::::W                 J:::::J  O:::::O     O:::::O      Y:::::::Y
+      W:::::W W:::::W W:::::W W:::::W      O:::::O     O:::::O      W:::::W W:::::W W:::::W W:::::W      JJJJJJJ     J:::::J  O:::::O     O:::::O       Y:::::Y
+       W:::::W:::::W   W:::::W:::::W       O:::::O     O:::::O       W:::::W:::::W   W:::::W:::::W       J:::::J     J:::::J  O:::::O     O:::::O       Y:::::Y
+        W:::::::::W     W:::::::::W        O::::::O   O::::::O        W:::::::::W     W:::::::::W        J::::::J   J::::::J  O::::::O   O::::::O       Y:::::Y
+         W:::::::W       W:::::::W         O:::::::OOO:::::::O         W:::::::W       W:::::::W         J:::::::JJJ:::::::J  O:::::::OOO:::::::O       Y:::::Y
+          W:::::W         W:::::W           OO:::::::::::::OO           W:::::W         W:::::W           JJ:::::::::::::JJ    OO:::::::::::::OO     YYYY:::::YYYY
+           W:::W           W:::W              OO:::::::::OO              W:::W           W:::W              JJ:::::::::JJ        OO:::::::::OO       Y:::::::::::Y
+            WWW             WWW                 OOOOOOOOO                 WWW             WWW                 JJJJJJJJJ            OOOOOOOOO         YYYYYYYYYYYYY
+
+   __/\\\______________/\\\_        _______/\\\\\______        __/\\\______________/\\\_        ______/\\\\\\\\\\\_        _______/\\\\\______        __/\\\________/\\\_
+    _\/\\\_____________\/\\\_        _____/\\\///\\\____        _\/\\\_____________\/\\\_        _____\/////\\\///__        _____/\\\///\\\____        _\///\\\____/\\\/__
+     _\/\\\_____________\/\\\_        ___/\\\/__\///\\\__        _\/\\\_____________\/\\\_        _________\/\\\_____        ___/\\\/__\///\\\__        ___\///\\\/\\\/____
+      _\//\\\____/\\\____/\\\__        __/\\\______\//\\\_        _\//\\\____/\\\____/\\\__        _________\/\\\_____        __/\\\______\//\\\_        _____\///\\\/______
+       __\//\\\__/\\\\\__/\\\___        _\/\\\_______\/\\\_        __\//\\\__/\\\\\__/\\\___        _________\/\\\_____        _\/\\\_______\/\\\_        _______\/\\\_______
+        ___\//\\\/\\\/\\\/\\\____        _\//\\\______/\\\__        ___\//\\\/\\\/\\\/\\\____        _________\/\\\_____        _\//\\\______/\\\__        _______\/\\\_______
+         ____\//\\\\\\//\\\\\_____        __\///\\\__/\\\____        ____\//\\\\\\//\\\\\_____        __/\\\___\/\\\_____        __\///\\\__/\\\____        _______\/\\\_______
+          _____\//\\\__\//\\\______        ____\///\\\\\/_____        _____\//\\\__\//\\\______        _\//\\\\\\\\\______        ____\///\\\\\/_____        _______\/\\\_______
+           ______\///____\///_______        ______\/////_______        ______\///____\///_______        __\/////////_______        ______\/////_______        _______\///________
+
+
+${AnsiColor.BRIGHT_YELLOW}
+////////////////////////////////////////////////////////////////////
+//                          _ooOoo_                               //
+//                         o8888888o                              //
+//                         88" . "88                              //
+//                         (| ^_^ |)                              //
+//                         O\  =  /O                              //
+//                      ____/`---'\____                           //
+//                    .'  \\|     |//  `.                         //
+//                   /  \\|||  :  |||//  \                        //
+//                  /  _||||| -:- |||||-  \                       //
+//                  |   | \\\  -  /// |   |                       //
+//                  | \_|  ''\---/''  |   |                       //
+//                  \  .-\__  `-`  ___/-. /                       //
+//                ___`. .'  /--.--\  `. . ___                     //
+//              ."" '<  `.___\_<|>_/___.'  >'"".                  //
+//            | | :  `- \`.;`\ _ /`;.`/ - ` : | |                 //
+//            \  \ `-.   \_ __\ /__ _/   .-` /  /                 //
+//      ========`-.____`-.___\_____/___.-`____.-'========         //
+//                           `=---='                              //
+//      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^        //
+//            佛祖保佑       永不宕机     永无BUG                  //
+////////////////////////////////////////////////////////////////////
+
