@@ -12,13 +12,14 @@ zuul:
   add-host-header: true # 路由重定向ip地址保持zuul服务ip
   routes:
     service-provider: /provider/**
-security:
-  oauth2:
-    client:
-      access-token-uri:
-      user-authorization-uri:
-      client-id:
-      client-secret:
-    resource:
-      jwt:
-        key-value: innerpeacez
+
+#security:
+#  oauth2:
+#    client:
+#      access-token-uri:
+#      user-authorization-uri:
+#      client-id:
+#      client-secret:
+#    resource:
+#      jwt:
+#        key-value: innerpeacez
